@@ -176,11 +176,11 @@ t_walid me = {
 
 ### 🧠 Other Skills
 
-🧩 Algorithms & Data Structures  
-🐞 Debugging & Troubleshooting  
-🔐 Information Security & Online Research  
-📂 File Management & System Operations  
-🎯 Problem Solving & Critical Thinking  
+Algorithms & Data Structures  
+Debugging & Troubleshooting  
+Problem Solving & Critical Thinking  
+File Management & System Operations  
+Information Security & Online Research  
 
 </div>
 
