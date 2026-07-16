@@ -61,6 +61,18 @@
 
 </div>
 
+<div align="center">
+
+## 💻 Most Used Languages
+
+<img
+  width="950"
+    height="350"
+  src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/top-langs?username=wkratos&layout=normal&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
+
+</div>
+
 ---
 
 <div align="center">
