@@ -70,7 +70,7 @@
     <td width="50%" align="center" valign="top">
       <img
         width="100%"
-        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/top-langs?username=wkratos&layout=compact&langs_count=8&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=86400"
+        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/top-langs?username=wkratos&layout=compact&langs_count=8&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=250"
         alt="Most Used Languages"
       />
     </td>
@@ -78,7 +78,7 @@
   <td width="50%" align="center" valign="top">
       <img
         width="100%"
-        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/wakatime?username=0c343de5-aa45-4c30-a9f2-339ffc63d72d&layout=compact&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=86400"
+        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/wakatime?username=0c343de5-aa45-4c30-a9f2-339ffc63d72d&layout=compact&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=250"
         alt="WakaTime Coding Activity"
       />
     </td>
