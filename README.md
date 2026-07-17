@@ -60,7 +60,8 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkratos&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area_color=7aa2f7&area=true&hide_border=true&theme=tokyo-night&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkratos&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area_color=7aa2f7&area=true&hide_border=true&theme=tokyo-night&custom_title=Contribution%20Activity&cache_seconds=250"
+width="100%" />
 
 </div>
 
