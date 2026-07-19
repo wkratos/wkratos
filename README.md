@@ -234,11 +234,11 @@ Information Security & Online Research
 <br/><br/>
 
 <a href="mailto:">
-<img src="https://img.shields.io/badge/Email-Walid_Krati-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Email-email-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
 </a>
 
 <a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Walid%20Krati-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/LinkedIn-Linkedln-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
 </a>
 
 <a href="https://github.com/wkratos">
