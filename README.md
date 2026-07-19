@@ -1,22 +1,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,30:24283b,70:7aa2f7,100:bb9af7&height=240&section=header&text=Walid%20Krati&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=c0caf5&desc=Backend%20Developer%20·%2042%20Student%20·%20Problem%20Solver&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,30:24283b,70:7aa2f7,100:bb9af7&height=240&section=header&text=wkratos&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=c0caf5&desc=Backend%20Developer%20·%2042%20Student%20·%20Problem%20Solver&descAlignY=62&descSize=18" />
 
 <br/>
 
-<a href="mailto:eljadidatime@gmail.com">
+<a href="mailto:">
 <img src="https://img.shields.io/badge/-Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
 </a>
 
-<a href="https://www.linkedin.com/in/walid-krati/">
+<a href="https://www.linkedin.com/">
   <img
     src="https://img.shields.io/badge/-LinkedIn-7aa2f7?style=for-the-badge&labelColor=1a1b27&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjQgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNHpNNy4xMTkgMjAuNDUySDMuNTU1VjlINy4xMnYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="
     alt="LinkedIn"
   />
 </a>
 
-<a href="https://t.me/abushaheed_0771">
+<a href="https://t.me/">
 <img src="https://img.shields.io/badge/-Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
 </a>
 
@@ -95,16 +95,16 @@ width="100%" />
 </div>
 
 ```c
-typedef struct s_walid
+typedef struct s_wkratos
 {
     char *location;
     char *education;
     char *focus;
     char *current_stack;
     char *mindset;
-}   t_walid;
+}   t_wkratos;
 
-t_walid me = {
+t_wkratos me = {
     .location = "",
     .education = "USMS FST · 42 Network",
     .focus = "Backend Development · Low-Level Programming · APIs",
@@ -233,11 +233,11 @@ Information Security & Online Research
 
 <br/><br/>
 
-<a href="mailto:eljadidatime@gmail.com">
+<a href="mailto:">
 <img src="https://img.shields.io/badge/Email-Walid_Krati-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
 </a>
 
-<a href="https://www.linkedin.com/in/walid-krati/">
+<a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-Walid%20Krati-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
 </a>
 
@@ -245,8 +245,8 @@ Information Security & Online Research
 <img src="https://img.shields.io/badge/GitHub-Follow-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
 </a>
 
-<a href="https://t.me/abushaheed_0771">
-<img src="https://img.shields.io/badge/Telegram-Abushaheed_0771-9ece6a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
+<a href="https://t.me/">
+<img src="https://img.shields.io/badge/Telegram-Telegram-9ece6a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
 </a>
 
 <a href="https://discord.com/users/krvt0ss">
@@ -261,7 +261,7 @@ Information Security & Online Research
 
 ```text
 > Made with ❤️, lots of ☕, and countless debugging sessions
-> © 2020—present · Walid Krati
+> © 2020—present · wkratos
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,30:bb9af7,70:24283b,100:1a1b27&height=120&section=footer&animation=twinkling" />
