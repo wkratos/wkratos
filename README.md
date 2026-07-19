@@ -105,8 +105,8 @@ typedef struct s_walid
 }   t_walid;
 
 t_walid me = {
-    .location = "Morocco 🇲🇦",
-    .education = "FST (USMS) · 42 Network",
+    .location = "",
+    .education = "USMS FST · 42 Network",
     .focus = "Backend Development · Low-Level Programming · APIs",
     .current_stack = "C · Python · Flask · Node.js · SQL",
     .mindset = "Build. Debug. Learn. Repeat."
