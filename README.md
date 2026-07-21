@@ -46,13 +46,13 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wkratos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wkratos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1" />
 
 </td>
 
 <td valign="top" width="50%">
 
-<img src="https://streak-stats.demolab.com?user=wkratos&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideNums=c0caf5&dates=565f89&sideLabels=7aa2f7&currStreakNum=bb9af7" />
+<img src="https://streak-stats.demolab.com?user=wkratos&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideNums=c0caf5&dates=565f89&sideLabels=7aa2f7&currStreakNum=bb9af7&cache_seconds=1" />
 
 </td>
 </tr>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkratos&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area_color=7aa2f7&include_all_commits=true&count_private=tru&earea=true&hide_border=true&theme=tokyo-night&custom_title=Contribution%20Activity&cache_seconds=200"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkratos&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area_color=7aa2f7&include_all_commits=true&count_private=true&earea=true&hide_border=true&theme=tokyo-night&custom_title=Contribution%20Activity&cache_seconds=1"
 width="100%" />
 
 </div>
