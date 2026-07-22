@@ -128,6 +128,7 @@ t_wkratos me = {
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DELF](https://img.shields.io/badge/DELF_B2-F7DF1E?style=for-the-badge)
 ![FRMF](https://img.shields.io/badge/FRMF-FF0000?style=for-the-badge)
+[![EF SET C1](https://img.shields.io/badge/EF%20SET-C1%20Advanced-00AEEF?style=for-the-badge&logo=bookstack&logoColor=white)](YOUR_CERTIFICATE_URL)
 
 </div>
 
@@ -144,6 +145,7 @@ t_wkratos me = {
 | Google News Initiative | Google | Jul 2024 |
 | DELF B2 Certificate | Institut Français | Nov 2021 |
 | Football Referee Certificate | FRMF | Jan 2021 |
+| English Certificate 66/100 (C1 Advanced) | EF SET | Jul 2026 |
 
 </div>
 
