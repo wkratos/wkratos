@@ -263,7 +263,7 @@ Information Security & Online Research
 
 ```text
 > Made with ❤️, lots of ☕, and countless debugging sessions
-> © 2020—present · wkratos
+> © 2022—present · wkratos
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,30:bb9af7,70:24283b,100:1a1b27&height=120&section=footer&animation=twinkling" />
