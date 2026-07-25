@@ -5,7 +5,7 @@
 
 <br/>
 
-<a href="mailto:">
+<a href="mailto:eljadidatime@gmail.com">
 <img src="https://img.shields.io/badge/-Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
 </a>
 
