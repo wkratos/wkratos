@@ -105,7 +105,7 @@ typedef struct s_wkratos
 }   t_wkratos;
 
 t_wkratos me = {
-    .location = "",
+    .location = "In Between",
     .education = "USMS FST · 42 Network",
     .focus = "Backend Development · Low-Level Programming · APIs",
     .current_stack = "C · Python · Flask · Node.js · SQL",
