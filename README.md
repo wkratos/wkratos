@@ -79,7 +79,7 @@ width="100%" />
   <td width="50%" align="center" valign="top">
       <img
         width="100%"
-        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/wakatime?username=0c343de5-aa45-4c30-a9f2-339ffc63d72d&layout=compact&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=250"
+        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/wakatime?username=0c343de5-aa45-4c30-a9f2-339ffc63d72d&layout=compact&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=2"
         alt="WakaTime Coding Activity"
       />
     </td>
