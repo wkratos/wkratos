@@ -59,7 +59,7 @@
 </table>
 
 <br/>
-
+<!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wkratos&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area_color=7aa2f7&include_all_commits=true&count_private=true&earea=true&hide_border=true&theme=tokyo-night&custom_title=Contribution%20Activity&cache_seconds=1"
 width="100%" />
 
