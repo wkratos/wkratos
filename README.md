@@ -71,7 +71,7 @@ width="100%" />
     <td width="50%" align="center" valign="top">
       <img
         width="100%"
-        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/top-langs?username=wkratos&layout=compact&langs_count=8&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=250"
+        src="https://github-stats-extended-frontend-azure-beta.vercel.app/api/top-langs?username=wkratos&layout=compact&langs_count=20&card_width=450&theme=tokyonight&hide_border=true&cache_seconds=250"
         alt="Most Used Languages"
       />
     </td>
